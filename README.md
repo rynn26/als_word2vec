@@ -3,6 +3,9 @@ README - Sistem Rekomendasi Produk
 Project ini adalah notebook Python untuk membangun sistem rekomendasi produk
 berdasarkan dataset `amazon.csv`. Sistem ini menggabungkan dua pendekatan utama:
 Content-Based Filtering (Word2Vec) dan Collaborative Filtering (ALS).
+```BASE
+asdfas fsaef asdfjnasefjn asuefhu sieufh oasjdfhasoieufh
+```
 
 ------------------------------------------------------------
 1. Persiapan & Instalasi
