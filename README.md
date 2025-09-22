@@ -44,6 +44,9 @@ Content-Based Filtering (Word2Vec) dan Collaborative Filtering (ALS).
 - Rekomendasi produk untuk pengguna tertentu
 - Fungsi: als_recommend(user_id, top_k)
 
+![colaborative filtering 1](assets/als.png)
+![colaborative filtering 2](assets/als2.png)
+
 ------------------------------------------------------------
 5. Evaluasi & Visualisasi
 ------------------------------------------------------------
