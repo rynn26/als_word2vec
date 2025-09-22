@@ -33,7 +33,7 @@ Content-Based Filtering (Word2Vec) dan Collaborative Filtering (ALS).
 - Rekomendasi berdasarkan cosine similarity antar produk
 - Fungsi: content_based_recommendations(product_title, top_k)
 
-(assets/cbf.png)
+!(assets/cbf.png)
 
 ------------------------------------------------------------
 4. Collaborative Filtering (ALS - Implicit)
