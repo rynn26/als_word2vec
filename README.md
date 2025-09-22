@@ -4,7 +4,8 @@ Project ini adalah notebook Python untuk membangun sistem rekomendasi produk
 berdasarkan dataset `amazon.csv`. Sistem ini menggabungkan dua pendekatan utama:
 Content-Based Filtering (Word2Vec) dan Collaborative Filtering (ALS).
 ```BASE
-asdfas fsaef asdfjnasefjn asuefhu sieufh oasjdfhasoieufh
+!pip install --upgrade --force-reinstall numpy==1.26.4 pandas==2.2.2 gensim implicit
+
 ```
 
 ------------------------------------------------------------
